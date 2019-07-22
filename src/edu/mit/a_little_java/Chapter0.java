@@ -1,4 +1,4 @@
-package edu.mit.a_little_java.chapter0;
+package edu.mit.a_little_java;
 
 class NoFields
 {
@@ -30,7 +30,7 @@ class TwoFields
     }
 }
 
-public class Main
+public class Chapter0
 {
     public static void main( String[] args )
     {
